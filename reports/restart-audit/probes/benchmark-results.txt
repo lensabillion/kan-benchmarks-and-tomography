@@ -1,0 +1,10 @@
+gradient numerical/implemented (4 samples): 3.9999998337513714
+outside-domain derivative reported/numerical: 0.6250000000000001 0.0
+basis max difference versus SciPy: 2.220446049250313e-16
+partition-unity max error: 2.220446049250313e-16
+grid-update max forward discontinuity: 0.10763860006766168
+BSpline_MLP formula/trainable/active/all: 37 31 31 31
+KANbeFair formula/trainable/active/all: 85 112 76 166
+distinct caller seeds give identical KAN parameters: True
+Feynman anchor trainable/active: 441 381
+runtime: 3.12.13 numpy 2.0.2 torch 2.12.0 pykan 0.2.8

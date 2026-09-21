@@ -1,0 +1,164 @@
+         259  .gitignore
+       13349  KAN vs BSpline_MLP/Example_1_MLP_Version.ipynb
+       67649  KAN vs BSpline_MLP/Example_1_function_fitting.ipynb
+       29365  KAN vs BSpline_MLP/Example_1_function_fitting_MLP + BSpline.ipynb
+      953471  KAN vs BSpline_MLP/Example_1_function_fitting_MLP_BSpline_1.ipynb
+      146886  KAN vs BSpline_MLP/Example_3_deep_formula.ipynb
+      155861  KAN vs BSpline_MLP/Example_3_deep_formula_MLP + BSPline.ipynb
+      668948  KAN vs BSpline_MLP/Feyman_dataset_fitting_KAN_and_Bspline_MLP.ipynb
+          94  KAN vs BSpline_MLP/KANbeFair/.gitignore
+        3474  KAN vs BSpline_MLP/KANbeFair/ReadMe.md
+      277837  KAN vs BSpline_MLP/KANbeFair/assert/arch_ablation.png
+      746007  KAN vs BSpline_MLP/KANbeFair/assert/tldr.png
+      369728  KAN vs BSpline_MLP/KANbeFair/dataset/uciml_split_idx.pt
+         438  KAN vs BSpline_MLP/KANbeFair/environment.yml
+       28403  KAN vs BSpline_MLP/KANbeFair/notebooks/imgs/vision_flops.pdf
+       31192  KAN vs BSpline_MLP/KANbeFair/notebooks/imgs/vision_num_parameter.pdf
+       29878  KAN vs BSpline_MLP/KANbeFair/notebooks/lbfgs_exploration.ipynb
+      421913  KAN vs BSpline_MLP/KANbeFair/notebooks/plot.ipynb
+     3467911  KAN vs BSpline_MLP/KANbeFair/results/results.csv
+        7509  KAN vs BSpline_MLP/KANbeFair/src/data/audio.py
+        1144  KAN vs BSpline_MLP/KANbeFair/src/data/pca_dataset.py
+        4689  KAN vs BSpline_MLP/KANbeFair/src/data/special.py
+        2663  KAN vs BSpline_MLP/KANbeFair/src/data/text.py
+        5809  KAN vs BSpline_MLP/KANbeFair/src/data/titanic.py
+        3854  KAN vs BSpline_MLP/KANbeFair/src/data/uciml.py
+        5384  KAN vs BSpline_MLP/KANbeFair/src/models/bspline_mlp.py
+       52069  KAN vs BSpline_MLP/KANbeFair/src/models/kan/KAN.py
+       15257  KAN vs BSpline_MLP/KANbeFair/src/models/kan/KANLayer.py
+       17384  KAN vs BSpline_MLP/KANbeFair/src/models/kan/LBFGS.py
+        7991  KAN vs BSpline_MLP/KANbeFair/src/models/kan/Symbolic_KANLayer.py
+          19  KAN vs BSpline_MLP/KANbeFair/src/models/kan/__init__.py
+        5336  KAN vs BSpline_MLP/KANbeFair/src/models/kan/spline.py
+        9520  KAN vs BSpline_MLP/KANbeFair/src/models/kan/utils.py
+        4696  KAN vs BSpline_MLP/KANbeFair/src/models/kanbefair.py
+        3968  KAN vs BSpline_MLP/KANbeFair/src/models/mlp.py
+        1626  KAN vs BSpline_MLP/KANbeFair/src/models/utils.py
+       14220  KAN vs BSpline_MLP/KANbeFair/src/train.py
+       13495  KAN vs BSpline_MLP/KANbeFair/src/train_continual_learning.py
+       28090  KAN vs BSpline_MLP/KANbeFair/src/utils.py
+        1161  KAN vs BSpline_MLP/model/0.0_cache_data
+         578  KAN vs BSpline_MLP/model/0.0_config.yml
+        6457  KAN vs BSpline_MLP/model/0.0_state
+        9343  KAN vs BSpline_MLP/model/0.10_cache_data
+         579  KAN vs BSpline_MLP/model/0.10_config.yml
+       18937  KAN vs BSpline_MLP/model/0.10_state
+        9343  KAN vs BSpline_MLP/model/0.11_cache_data
+         580  KAN vs BSpline_MLP/model/0.11_config.yml
+       19513  KAN vs BSpline_MLP/model/0.11_state
+        9343  KAN vs BSpline_MLP/model/0.12_cache_data
+        1383  KAN vs BSpline_MLP/model/0.12_config.yml
+      504301  KAN vs BSpline_MLP/model/0.12_state
+        9343  KAN vs BSpline_MLP/model/0.13_cache_data
+        1382  KAN vs BSpline_MLP/model/0.13_config.yml
+      137773  KAN vs BSpline_MLP/model/0.13_state
+        9343  KAN vs BSpline_MLP/model/0.14_cache_data
+         399  KAN vs BSpline_MLP/model/0.14_config.yml
+       46905  KAN vs BSpline_MLP/model/0.14_state
+        9343  KAN vs BSpline_MLP/model/0.15_cache_data
+         398  KAN vs BSpline_MLP/model/0.15_config.yml
+       46905  KAN vs BSpline_MLP/model/0.15_state
+        9343  KAN vs BSpline_MLP/model/0.16_cache_data
+         397  KAN vs BSpline_MLP/model/0.16_config.yml
+       43065  KAN vs BSpline_MLP/model/0.16_state
+        9343  KAN vs BSpline_MLP/model/0.17_cache_data
+         396  KAN vs BSpline_MLP/model/0.17_config.yml
+       43065  KAN vs BSpline_MLP/model/0.17_state
+        9343  KAN vs BSpline_MLP/model/0.18_cache_data
+         398  KAN vs BSpline_MLP/model/0.18_config.yml
+       43193  KAN vs BSpline_MLP/model/0.18_state
+        9343  KAN vs BSpline_MLP/model/0.19_cache_data
+         397  KAN vs BSpline_MLP/model/0.19_config.yml
+       43193  KAN vs BSpline_MLP/model/0.19_state
+        9343  KAN vs BSpline_MLP/model/0.1_cache_data
+         579  KAN vs BSpline_MLP/model/0.1_config.yml
+       18361  KAN vs BSpline_MLP/model/0.1_state
+        9343  KAN vs BSpline_MLP/model/0.20_cache_data
+         398  KAN vs BSpline_MLP/model/0.20_config.yml
+       43321  KAN vs BSpline_MLP/model/0.20_state
+        9343  KAN vs BSpline_MLP/model/0.21_cache_data
+         397  KAN vs BSpline_MLP/model/0.21_config.yml
+       43321  KAN vs BSpline_MLP/model/0.21_state
+        9343  KAN vs BSpline_MLP/model/0.22_cache_data
+         398  KAN vs BSpline_MLP/model/0.22_config.yml
+       43961  KAN vs BSpline_MLP/model/0.22_state
+        9343  KAN vs BSpline_MLP/model/0.23_cache_data
+         397  KAN vs BSpline_MLP/model/0.23_config.yml
+       43961  KAN vs BSpline_MLP/model/0.23_state
+        9343  KAN vs BSpline_MLP/model/0.24_cache_data
+         399  KAN vs BSpline_MLP/model/0.24_config.yml
+       44921  KAN vs BSpline_MLP/model/0.24_state
+        9343  KAN vs BSpline_MLP/model/0.25_cache_data
+         398  KAN vs BSpline_MLP/model/0.25_config.yml
+       44921  KAN vs BSpline_MLP/model/0.25_state
+        9343  KAN vs BSpline_MLP/model/0.26_cache_data
+         399  KAN vs BSpline_MLP/model/0.26_config.yml
+       46905  KAN vs BSpline_MLP/model/0.26_state
+        9343  KAN vs BSpline_MLP/model/0.2_cache_data
+         578  KAN vs BSpline_MLP/model/0.2_config.yml
+       18361  KAN vs BSpline_MLP/model/0.2_state
+        9343  KAN vs BSpline_MLP/model/0.3_cache_data
+         579  KAN vs BSpline_MLP/model/0.3_config.yml
+       18361  KAN vs BSpline_MLP/model/0.3_state
+        9343  KAN vs BSpline_MLP/model/0.4_cache_data
+         578  KAN vs BSpline_MLP/model/0.4_config.yml
+       18361  KAN vs BSpline_MLP/model/0.4_state
+        9343  KAN vs BSpline_MLP/model/0.5_cache_data
+         579  KAN vs BSpline_MLP/model/0.5_config.yml
+       18425  KAN vs BSpline_MLP/model/0.5_state
+        9343  KAN vs BSpline_MLP/model/0.6_cache_data
+         578  KAN vs BSpline_MLP/model/0.6_config.yml
+       18425  KAN vs BSpline_MLP/model/0.6_state
+        9343  KAN vs BSpline_MLP/model/0.7_cache_data
+         579  KAN vs BSpline_MLP/model/0.7_config.yml
+       18553  KAN vs BSpline_MLP/model/0.7_state
+        9343  KAN vs BSpline_MLP/model/0.8_cache_data
+         578  KAN vs BSpline_MLP/model/0.8_config.yml
+       18553  KAN vs BSpline_MLP/model/0.8_state
+        9343  KAN vs BSpline_MLP/model/0.9_cache_data
+         579  KAN vs BSpline_MLP/model/0.9_config.yml
+       18937  KAN vs BSpline_MLP/model/0.9_state
+         244  KAN vs BSpline_MLP/model/history.txt
+      801604  KAN vs BSpline_MLP/symbolic_formula_representation_MLP_Spline.ipynb
+       73544  KAN vs MLP /Example_1_function_fitting.ipynb
+      127878  KAN vs MLP /KAN_housing_prediction.ipynb
+      763754  KAN vs MLP /KAN_vs_NN_Planar_Classification (1).ipynb
+      753267  KAN vs MLP /MLP_vs_KAN_Research_Demo.ipynb
+      185096  KAN vs MLP /NN__Heating_Cooling_Prediction.ipynb
+      389618  KAN vs MLP /NN_housing_prediction.ipynb
+      662406  KAN_assisted tomography/KAN_alone_vs_SDP.ipynb
+      695630  KAN_assisted tomography/KAN_assisted_tomography_MOESM3.ipynb
+      765627  KAN_assisted tomography/KAN_assisted_tomography_MOESM4.ipynb
+      614808  KAN_assisted tomography/KAN_assisted_tomography_MOESM4_SDP_joint and recursive.ipynb
+      392427  KAN_assisted tomography/KAN_crossfile_testing.ipynb
+      831882  KAN_assisted tomography/KAN_to_SDP_bridge.ipynb
+     1326493  KAN_assisted tomography/KAN_to_SDP_bridge_with_stresstest.ipynb
+       47685  KAN_assisted tomography/_last_cell_plot.png
+      371712  KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM3_ESM.xls
+      316928  KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM4_ESM.xls
+      401408  KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM5_ESM.xls
+     4283904  KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM6_ESM.xls
+        1161  KAN_assisted tomography/model/0.0_cache_data
+         395  KAN_assisted tomography/model/0.0_config.yml
+        7353  KAN_assisted tomography/model/0.0_state
+        8703  KAN_assisted tomography/model/0.1_cache_data
+         396  KAN_assisted tomography/model/0.1_config.yml
+       40185  KAN_assisted tomography/model/0.1_state
+        8703  KAN_assisted tomography/model/0.2_cache_data
+         395  KAN_assisted tomography/model/0.2_config.yml
+       40185  KAN_assisted tomography/model/0.2_state
+        8703  KAN_assisted tomography/model/0.3_cache_data
+         397  KAN_assisted tomography/model/0.3_config.yml
+       40313  KAN_assisted tomography/model/0.3_state
+        7295  KAN_assisted tomography/model/0.4_cache_data
+         396  KAN_assisted tomography/model/0.4_config.yml
+      114297  KAN_assisted tomography/model/0.4_state
+        7295  KAN_assisted tomography/model/0.5_cache_data
+         397  KAN_assisted tomography/model/0.5_config.yml
+      114425  KAN_assisted tomography/model/0.5_state
+          85  KAN_assisted tomography/model/history.txt
+        2710  README.md
+       16505  reports/01-kan-vs-bspline-mlp.md
+       11810  reports/02-kan-vs-mlp.md
+       15635  reports/03-kan-assisted-tomography.md
+        1265  reports/README.md

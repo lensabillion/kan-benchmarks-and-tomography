@@ -2,7 +2,20 @@
 
 Experiments exploring **Kolmogorov–Arnold Networks (KANs)** — comparing them against
 conventional neural architectures and applying them to a real physics problem
-(quantum state tomography).
+(quantum detector tomography).
+
+## Restart audit
+
+The [September 2026 restart audit](reports/04-project-restart-audit.md) examines the
+code, saved results, thesis, poster, slides, and prior literature. It identifies
+mathematical, implementation, and evaluation defects and provides a tracked repair
+plan. Treat the existing notebook results as exploratory until the corresponding
+validation steps pass. The report links to detailed evidence and bounded probes.
+
+Task tracking uses [tbd](https://github.com/jlevy/tbd), with the `kan` prefix.
+The report audit is `kan-1btb`; the implementation restart is `kan-lwtk`.
+Issue state lives on the separate `tbd-sync` branch. See [AGENTS.md](AGENTS.md)
+for the research workflow and numerical validation requirements.
 
 The work is organized into three self-contained sub-projects, each a collection of
 Jupyter notebooks.
@@ -31,7 +44,7 @@ mix of regression and classification tasks.
 - `NN__Heating_Cooling_Prediction.ipynb` — energy efficiency prediction
 
 ### 3. `KAN_assisted tomography/`
-Applies KANs to **quantum state tomography**, using a KAN as a denoising front-end
+Applies KANs to **quantum detector tomography**, using a KAN as a proposed smoothing front-end
 that feeds an SDP (semidefinite programming) reconstruction step.
 
 - `KAN_to_SDP_bridge*.ipynb` — the KAN → SDP pipeline (denoise raw data, then reconstruct)
