@@ -1,0 +1,994 @@
+{
+  "tracked_count": 164,
+  "tracked_bytes": 23562219,
+  "tracked_files": [
+    {
+      "path": ".gitignore",
+      "bytes": 259,
+      "suffix": ""
+    },
+    {
+      "path": "KAN vs BSpline_MLP/Example_1_MLP_Version.ipynb",
+      "bytes": 13349,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/Example_1_function_fitting.ipynb",
+      "bytes": 67649,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/Example_1_function_fitting_MLP + BSpline.ipynb",
+      "bytes": 29365,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/Example_1_function_fitting_MLP_BSpline_1.ipynb",
+      "bytes": 953471,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/Example_3_deep_formula.ipynb",
+      "bytes": 146886,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/Example_3_deep_formula_MLP + BSPline.ipynb",
+      "bytes": 155861,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/Feyman_dataset_fitting_KAN_and_Bspline_MLP.ipynb",
+      "bytes": 668948,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/.gitignore",
+      "bytes": 94,
+      "suffix": ""
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/ReadMe.md",
+      "bytes": 3474,
+      "suffix": ".md"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/assert/arch_ablation.png",
+      "bytes": 277837,
+      "suffix": ".png"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/assert/tldr.png",
+      "bytes": 746007,
+      "suffix": ".png"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/dataset/uciml_split_idx.pt",
+      "bytes": 369728,
+      "suffix": ".pt"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/environment.yml",
+      "bytes": 438,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/notebooks/imgs/vision_flops.pdf",
+      "bytes": 28403,
+      "suffix": ".pdf"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/notebooks/imgs/vision_num_parameter.pdf",
+      "bytes": 31192,
+      "suffix": ".pdf"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/notebooks/lbfgs_exploration.ipynb",
+      "bytes": 29878,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/notebooks/plot.ipynb",
+      "bytes": 421913,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/results/results.csv",
+      "bytes": 3467911,
+      "suffix": ".csv"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/data/audio.py",
+      "bytes": 7509,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/data/pca_dataset.py",
+      "bytes": 1144,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/data/special.py",
+      "bytes": 4689,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/data/text.py",
+      "bytes": 2663,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/data/titanic.py",
+      "bytes": 5809,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/data/uciml.py",
+      "bytes": 3854,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/models/bspline_mlp.py",
+      "bytes": 5384,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/models/kan/KAN.py",
+      "bytes": 52069,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/models/kan/KANLayer.py",
+      "bytes": 15257,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/models/kan/LBFGS.py",
+      "bytes": 17384,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/models/kan/Symbolic_KANLayer.py",
+      "bytes": 7991,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/models/kan/__init__.py",
+      "bytes": 19,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/models/kan/spline.py",
+      "bytes": 5336,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/models/kan/utils.py",
+      "bytes": 9520,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/models/kanbefair.py",
+      "bytes": 4696,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/models/mlp.py",
+      "bytes": 3968,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/models/utils.py",
+      "bytes": 1626,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/train.py",
+      "bytes": 14220,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/train_continual_learning.py",
+      "bytes": 13495,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/KANbeFair/src/utils.py",
+      "bytes": 28090,
+      "suffix": ".py"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.0_cache_data",
+      "bytes": 1161,
+      "suffix": ".0_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.0_config.yml",
+      "bytes": 578,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.0_state",
+      "bytes": 6457,
+      "suffix": ".0_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.10_cache_data",
+      "bytes": 9343,
+      "suffix": ".10_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.10_config.yml",
+      "bytes": 579,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.10_state",
+      "bytes": 18937,
+      "suffix": ".10_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.11_cache_data",
+      "bytes": 9343,
+      "suffix": ".11_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.11_config.yml",
+      "bytes": 580,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.11_state",
+      "bytes": 19513,
+      "suffix": ".11_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.12_cache_data",
+      "bytes": 9343,
+      "suffix": ".12_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.12_config.yml",
+      "bytes": 1383,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.12_state",
+      "bytes": 504301,
+      "suffix": ".12_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.13_cache_data",
+      "bytes": 9343,
+      "suffix": ".13_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.13_config.yml",
+      "bytes": 1382,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.13_state",
+      "bytes": 137773,
+      "suffix": ".13_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.14_cache_data",
+      "bytes": 9343,
+      "suffix": ".14_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.14_config.yml",
+      "bytes": 399,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.14_state",
+      "bytes": 46905,
+      "suffix": ".14_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.15_cache_data",
+      "bytes": 9343,
+      "suffix": ".15_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.15_config.yml",
+      "bytes": 398,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.15_state",
+      "bytes": 46905,
+      "suffix": ".15_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.16_cache_data",
+      "bytes": 9343,
+      "suffix": ".16_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.16_config.yml",
+      "bytes": 397,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.16_state",
+      "bytes": 43065,
+      "suffix": ".16_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.17_cache_data",
+      "bytes": 9343,
+      "suffix": ".17_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.17_config.yml",
+      "bytes": 396,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.17_state",
+      "bytes": 43065,
+      "suffix": ".17_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.18_cache_data",
+      "bytes": 9343,
+      "suffix": ".18_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.18_config.yml",
+      "bytes": 398,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.18_state",
+      "bytes": 43193,
+      "suffix": ".18_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.19_cache_data",
+      "bytes": 9343,
+      "suffix": ".19_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.19_config.yml",
+      "bytes": 397,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.19_state",
+      "bytes": 43193,
+      "suffix": ".19_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.1_cache_data",
+      "bytes": 9343,
+      "suffix": ".1_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.1_config.yml",
+      "bytes": 579,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.1_state",
+      "bytes": 18361,
+      "suffix": ".1_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.20_cache_data",
+      "bytes": 9343,
+      "suffix": ".20_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.20_config.yml",
+      "bytes": 398,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.20_state",
+      "bytes": 43321,
+      "suffix": ".20_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.21_cache_data",
+      "bytes": 9343,
+      "suffix": ".21_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.21_config.yml",
+      "bytes": 397,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.21_state",
+      "bytes": 43321,
+      "suffix": ".21_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.22_cache_data",
+      "bytes": 9343,
+      "suffix": ".22_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.22_config.yml",
+      "bytes": 398,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.22_state",
+      "bytes": 43961,
+      "suffix": ".22_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.23_cache_data",
+      "bytes": 9343,
+      "suffix": ".23_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.23_config.yml",
+      "bytes": 397,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.23_state",
+      "bytes": 43961,
+      "suffix": ".23_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.24_cache_data",
+      "bytes": 9343,
+      "suffix": ".24_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.24_config.yml",
+      "bytes": 399,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.24_state",
+      "bytes": 44921,
+      "suffix": ".24_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.25_cache_data",
+      "bytes": 9343,
+      "suffix": ".25_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.25_config.yml",
+      "bytes": 398,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.25_state",
+      "bytes": 44921,
+      "suffix": ".25_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.26_cache_data",
+      "bytes": 9343,
+      "suffix": ".26_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.26_config.yml",
+      "bytes": 399,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.26_state",
+      "bytes": 46905,
+      "suffix": ".26_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.2_cache_data",
+      "bytes": 9343,
+      "suffix": ".2_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.2_config.yml",
+      "bytes": 578,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.2_state",
+      "bytes": 18361,
+      "suffix": ".2_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.3_cache_data",
+      "bytes": 9343,
+      "suffix": ".3_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.3_config.yml",
+      "bytes": 579,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.3_state",
+      "bytes": 18361,
+      "suffix": ".3_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.4_cache_data",
+      "bytes": 9343,
+      "suffix": ".4_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.4_config.yml",
+      "bytes": 578,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.4_state",
+      "bytes": 18361,
+      "suffix": ".4_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.5_cache_data",
+      "bytes": 9343,
+      "suffix": ".5_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.5_config.yml",
+      "bytes": 579,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.5_state",
+      "bytes": 18425,
+      "suffix": ".5_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.6_cache_data",
+      "bytes": 9343,
+      "suffix": ".6_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.6_config.yml",
+      "bytes": 578,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.6_state",
+      "bytes": 18425,
+      "suffix": ".6_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.7_cache_data",
+      "bytes": 9343,
+      "suffix": ".7_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.7_config.yml",
+      "bytes": 579,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.7_state",
+      "bytes": 18553,
+      "suffix": ".7_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.8_cache_data",
+      "bytes": 9343,
+      "suffix": ".8_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.8_config.yml",
+      "bytes": 578,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.8_state",
+      "bytes": 18553,
+      "suffix": ".8_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.9_cache_data",
+      "bytes": 9343,
+      "suffix": ".9_cache_data"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.9_config.yml",
+      "bytes": 579,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/0.9_state",
+      "bytes": 18937,
+      "suffix": ".9_state"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/model/history.txt",
+      "bytes": 244,
+      "suffix": ".txt"
+    },
+    {
+      "path": "KAN vs BSpline_MLP/symbolic_formula_representation_MLP_Spline.ipynb",
+      "bytes": 801604,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs MLP /Example_1_function_fitting.ipynb",
+      "bytes": 73544,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs MLP /KAN_housing_prediction.ipynb",
+      "bytes": 127878,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs MLP /KAN_vs_NN_Planar_Classification (1).ipynb",
+      "bytes": 763754,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs MLP /MLP_vs_KAN_Research_Demo.ipynb",
+      "bytes": 753267,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs MLP /NN__Heating_Cooling_Prediction.ipynb",
+      "bytes": 185096,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN vs MLP /NN_housing_prediction.ipynb",
+      "bytes": 389618,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN_assisted tomography/KAN_alone_vs_SDP.ipynb",
+      "bytes": 662406,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN_assisted tomography/KAN_assisted_tomography_MOESM3.ipynb",
+      "bytes": 695630,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN_assisted tomography/KAN_assisted_tomography_MOESM4.ipynb",
+      "bytes": 765627,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN_assisted tomography/KAN_assisted_tomography_MOESM4_SDP_joint and recursive.ipynb",
+      "bytes": 614808,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN_assisted tomography/KAN_crossfile_testing.ipynb",
+      "bytes": 392427,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN_assisted tomography/KAN_to_SDP_bridge.ipynb",
+      "bytes": 831882,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN_assisted tomography/KAN_to_SDP_bridge_with_stresstest.ipynb",
+      "bytes": 1326493,
+      "suffix": ".ipynb"
+    },
+    {
+      "path": "KAN_assisted tomography/_last_cell_plot.png",
+      "bytes": 47685,
+      "suffix": ".png"
+    },
+    {
+      "path": "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM3_ESM.xls",
+      "bytes": 371712,
+      "suffix": ".xls"
+    },
+    {
+      "path": "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM4_ESM.xls",
+      "bytes": 316928,
+      "suffix": ".xls"
+    },
+    {
+      "path": "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM5_ESM.xls",
+      "bytes": 401408,
+      "suffix": ".xls"
+    },
+    {
+      "path": "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM6_ESM.xls",
+      "bytes": 4283904,
+      "suffix": ".xls"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.0_cache_data",
+      "bytes": 1161,
+      "suffix": ".0_cache_data"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.0_config.yml",
+      "bytes": 395,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.0_state",
+      "bytes": 7353,
+      "suffix": ".0_state"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.1_cache_data",
+      "bytes": 8703,
+      "suffix": ".1_cache_data"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.1_config.yml",
+      "bytes": 396,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.1_state",
+      "bytes": 40185,
+      "suffix": ".1_state"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.2_cache_data",
+      "bytes": 8703,
+      "suffix": ".2_cache_data"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.2_config.yml",
+      "bytes": 395,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.2_state",
+      "bytes": 40185,
+      "suffix": ".2_state"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.3_cache_data",
+      "bytes": 8703,
+      "suffix": ".3_cache_data"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.3_config.yml",
+      "bytes": 397,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.3_state",
+      "bytes": 40313,
+      "suffix": ".3_state"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.4_cache_data",
+      "bytes": 7295,
+      "suffix": ".4_cache_data"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.4_config.yml",
+      "bytes": 396,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.4_state",
+      "bytes": 114297,
+      "suffix": ".4_state"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.5_cache_data",
+      "bytes": 7295,
+      "suffix": ".5_cache_data"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.5_config.yml",
+      "bytes": 397,
+      "suffix": ".yml"
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.5_state",
+      "bytes": 114425,
+      "suffix": ".5_state"
+    },
+    {
+      "path": "KAN_assisted tomography/model/history.txt",
+      "bytes": 85,
+      "suffix": ".txt"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2710,
+      "suffix": ".md"
+    },
+    {
+      "path": "reports/01-kan-vs-bspline-mlp.md",
+      "bytes": 16505,
+      "suffix": ".md"
+    },
+    {
+      "path": "reports/02-kan-vs-mlp.md",
+      "bytes": 11810,
+      "suffix": ".md"
+    },
+    {
+      "path": "reports/03-kan-assisted-tomography.md",
+      "bytes": 15635,
+      "suffix": ".md"
+    },
+    {
+      "path": "reports/README.md",
+      "bytes": 1265,
+      "suffix": ".md"
+    }
+  ],
+  "suffix_counts": {
+    ".0_cache_data": 2,
+    ".0_state": 2,
+    ".10_cache_data": 1,
+    ".10_state": 1,
+    ".11_cache_data": 1,
+    ".11_state": 1,
+    ".12_cache_data": 1,
+    ".12_state": 1,
+    ".13_cache_data": 1,
+    ".13_state": 1,
+    ".14_cache_data": 1,
+    ".14_state": 1,
+    ".15_cache_data": 1,
+    ".15_state": 1,
+    ".16_cache_data": 1,
+    ".16_state": 1,
+    ".17_cache_data": 1,
+    ".17_state": 1,
+    ".18_cache_data": 1,
+    ".18_state": 1,
+    ".19_cache_data": 1,
+    ".19_state": 1,
+    ".1_cache_data": 2,
+    ".1_state": 2,
+    ".20_cache_data": 1,
+    ".20_state": 1,
+    ".21_cache_data": 1,
+    ".21_state": 1,
+    ".22_cache_data": 1,
+    ".22_state": 1,
+    ".23_cache_data": 1,
+    ".23_state": 1,
+    ".24_cache_data": 1,
+    ".24_state": 1,
+    ".25_cache_data": 1,
+    ".25_state": 1,
+    ".26_cache_data": 1,
+    ".26_state": 1,
+    ".2_cache_data": 2,
+    ".2_state": 2,
+    ".3_cache_data": 2,
+    ".3_state": 2,
+    ".4_cache_data": 2,
+    ".4_state": 2,
+    ".5_cache_data": 2,
+    ".5_state": 2,
+    ".6_cache_data": 1,
+    ".6_state": 1,
+    ".7_cache_data": 1,
+    ".7_state": 1,
+    ".8_cache_data": 1,
+    ".8_state": 1,
+    ".9_cache_data": 1,
+    ".9_state": 1,
+    ".csv": 1,
+    ".ipynb": 23,
+    ".md": 6,
+    ".pdf": 2,
+    ".png": 3,
+    ".pt": 1,
+    ".py": 20,
+    ".txt": 2,
+    ".xls": 4,
+    ".yml": 34,
+    "[none]": 2
+  },
+  "suffix_bytes": {
+    ".0_cache_data": 2322,
+    ".0_state": 13810,
+    ".10_cache_data": 9343,
+    ".10_state": 18937,
+    ".11_cache_data": 9343,
+    ".11_state": 19513,
+    ".12_cache_data": 9343,
+    ".12_state": 504301,
+    ".13_cache_data": 9343,
+    ".13_state": 137773,
+    ".14_cache_data": 9343,
+    ".14_state": 46905,
+    ".15_cache_data": 9343,
+    ".15_state": 46905,
+    ".16_cache_data": 9343,
+    ".16_state": 43065,
+    ".17_cache_data": 9343,
+    ".17_state": 43065,
+    ".18_cache_data": 9343,
+    ".18_state": 43193,
+    ".19_cache_data": 9343,
+    ".19_state": 43193,
+    ".1_cache_data": 18046,
+    ".1_state": 58546,
+    ".20_cache_data": 9343,
+    ".20_state": 43321,
+    ".21_cache_data": 9343,
+    ".21_state": 43321,
+    ".22_cache_data": 9343,
+    ".22_state": 43961,
+    ".23_cache_data": 9343,
+    ".23_state": 43961,
+    ".24_cache_data": 9343,
+    ".24_state": 44921,
+    ".25_cache_data": 9343,
+    ".25_state": 44921,
+    ".26_cache_data": 9343,
+    ".26_state": 46905,
+    ".2_cache_data": 18046,
+    ".2_state": 58546,
+    ".3_cache_data": 18046,
+    ".3_state": 58674,
+    ".4_cache_data": 16638,
+    ".4_state": 132658,
+    ".5_cache_data": 16638,
+    ".5_state": 132850,
+    ".6_cache_data": 9343,
+    ".6_state": 18425,
+    ".7_cache_data": 9343,
+    ".7_state": 18553,
+    ".8_cache_data": 9343,
+    ".8_state": 18553,
+    ".9_cache_data": 9343,
+    ".9_state": 18937,
+    ".csv": 3467911,
+    ".ipynb": 10871354,
+    ".md": 51399,
+    ".pdf": 59595,
+    ".png": 1071529,
+    ".pt": 369728,
+    ".py": 204723,
+    ".txt": 329,
+    ".xls": 5373952,
+    ".yml": 17694,
+    "[none]": 353
+  },
+  "artifact_groups": {
+    "notebooks": {
+      "count": 23,
+      "bytes": 10871354
+    },
+    "python": {
+      "count": 20,
+      "bytes": 204723
+    },
+    "spreadsheets": {
+      "count": 4,
+      "bytes": 5373952
+    },
+    "model_state": {
+      "count": 33,
+      "bytes": 1787713
+    },
+    "model_cache": {
+      "count": 33,
+      "bytes": 285939
+    },
+    "model_config": {
+      "count": 33,
+      "bytes": 17256
+    },
+    "images": {
+      "count": 3,
+      "bytes": 1071529
+    },
+    "embedded_pdfs": {
+      "count": 2,
+      "bytes": 59595
+    }
+  }
+}

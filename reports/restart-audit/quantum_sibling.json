@@ -1,0 +1,425 @@
+{
+  "exact_duplicates": [
+    {
+      "path": "KAN_assisted tomography/KAN_alone_vs_SDP.ipynb",
+      "bytes": 662406,
+      "sha256": "da0952488112fc84d821e499f41fe205a5fe2252f809230849a0785db10b5e4f",
+      "repo_matches": [
+        "KAN_assisted tomography/KAN_alone_vs_SDP.ipynb"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/KAN_assisted_tomography_MOESM3.ipynb",
+      "bytes": 695630,
+      "sha256": "953ed28fda4d7d7be9ee18c3e3f85839a6ac20fd2da2664c80bd39a217e338b9",
+      "repo_matches": [
+        "KAN_assisted tomography/KAN_assisted_tomography_MOESM3.ipynb"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/KAN_assisted_tomography_MOESM4.ipynb",
+      "bytes": 765627,
+      "sha256": "1f2158c30fe392d459c018badeeaa04f25dba0ae83d78326600767ad530c1dd2",
+      "repo_matches": [
+        "KAN_assisted tomography/KAN_assisted_tomography_MOESM4.ipynb"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/KAN_assisted_tomography_MOESM4_SDP_joint and recursive.ipynb",
+      "bytes": 614808,
+      "sha256": "970f41712baa6c4a3b9b1de1c9c7f69e9c5f30273d0536b9a21619d33ca0a087",
+      "repo_matches": [
+        "KAN_assisted tomography/KAN_assisted_tomography_MOESM4_SDP_joint and recursive.ipynb"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/KAN_crossfile_testing.ipynb",
+      "bytes": 392427,
+      "sha256": "7816cd719ae6a881a0b032d03ad80212a341dff376c42ca499b21258deba0fec",
+      "repo_matches": [
+        "KAN_assisted tomography/KAN_crossfile_testing.ipynb"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/KAN_to_SDP_bridge.ipynb",
+      "bytes": 831882,
+      "sha256": "42523f7443ba5b38f6371f94cdd173dd66c38a89bada0e3c7c7a6f503b31d15e",
+      "repo_matches": [
+        "KAN_assisted tomography/KAN_to_SDP_bridge.ipynb"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/KAN_to_SDP_bridge_with_stresstest.ipynb",
+      "bytes": 1326493,
+      "sha256": "c5d0d36b4645f6b1dbdf42e94f1dbd1b03a2eec75f400d9dee3b70422ca5f35a",
+      "repo_matches": [
+        "KAN_assisted tomography/KAN_to_SDP_bridge_with_stresstest.ipynb"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/_last_cell_plot.png",
+      "bytes": 47685,
+      "sha256": "aaf8cfb95866446a179e084d943f32a1cb193bf5ac0952523d68b12403e0c016",
+      "repo_matches": [
+        "KAN_assisted tomography/_last_cell_plot.png"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM3_ESM.xls",
+      "bytes": 371712,
+      "sha256": "15ff9de3169e0252c4a2799707c250800c1e493f43a48973a56646e2a516e0c3",
+      "repo_matches": [
+        "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM3_ESM.xls"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM4_ESM.xls",
+      "bytes": 316928,
+      "sha256": "bb87dc03caac6904b05b9990cf32ff49806a6fc2464a7a7014935bf1a7b15e17",
+      "repo_matches": [
+        "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM4_ESM.xls"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM5_ESM.xls",
+      "bytes": 401408,
+      "sha256": "b60d391dd87ecd2c1b17e8737ab1600c03bdd070b90c9718b25fc09770be7794",
+      "repo_matches": [
+        "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM5_ESM.xls"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM6_ESM.xls",
+      "bytes": 4283904,
+      "sha256": "93d05d5f94ccc729814da95b14bcb4635eb1a79945d7340f0f504e4f1658fe5f",
+      "repo_matches": [
+        "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM6_ESM.xls"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.0_cache_data",
+      "bytes": 1161,
+      "sha256": "1c7e7515c4c8e0e22636d9ef8e2d738b88b0c3576dbb0a5ed6d963fca6e7a451",
+      "repo_matches": [
+        "KAN vs BSpline_MLP/model/0.0_cache_data",
+        "KAN_assisted tomography/model/0.0_cache_data"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.0_config.yml",
+      "bytes": 395,
+      "sha256": "bc945c61d7e8bb7379f70657b259511ca4c522b24032b57253df05f1b6805823",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.0_config.yml"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.0_state",
+      "bytes": 7353,
+      "sha256": "407d93ea1a15af1584b1ec8f48ae186f8568a1b21fbea91feb2b8d9ede0783c0",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.0_state"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.1_cache_data",
+      "bytes": 8703,
+      "sha256": "e2a948e9a2c52bce1fbebcca71f710954ea9f212cbda6d90c78fa8670ec3eb02",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.1_cache_data",
+        "KAN_assisted tomography/model/0.2_cache_data"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.1_config.yml",
+      "bytes": 396,
+      "sha256": "4054461ad4966a6585a5e2f8c0db5423bfc7e443db589ba5ee764e99898a33f3",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.1_config.yml"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.1_state",
+      "bytes": 40185,
+      "sha256": "094b5518b40871a2bb82725ccf8f935bb92def048da531418c35f68b538eaf03",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.1_state",
+        "KAN_assisted tomography/model/0.2_state"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.2_cache_data",
+      "bytes": 8703,
+      "sha256": "e2a948e9a2c52bce1fbebcca71f710954ea9f212cbda6d90c78fa8670ec3eb02",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.1_cache_data",
+        "KAN_assisted tomography/model/0.2_cache_data"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.2_config.yml",
+      "bytes": 395,
+      "sha256": "ca80a9a989e5ecba028545c12e4deac59e4168693d4baa9ddba209d8bcc7ed8d",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.2_config.yml"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.2_state",
+      "bytes": 40185,
+      "sha256": "094b5518b40871a2bb82725ccf8f935bb92def048da531418c35f68b538eaf03",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.1_state",
+        "KAN_assisted tomography/model/0.2_state"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.3_cache_data",
+      "bytes": 8703,
+      "sha256": "e47a760c5a7a1e1bb9f03f7014ef3d3cbd723474dbded01688cc0ac06ff126f3",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.3_cache_data"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.3_config.yml",
+      "bytes": 397,
+      "sha256": "dc54dfb4c031231b4080886456c4283899cde15dd245a6c5d1de4b83fa4d9097",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.3_config.yml"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.3_state",
+      "bytes": 40313,
+      "sha256": "73ca8fb3f412b2baca857178df982598f9ea02ef14bc935878e26e0b25cbe22d",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.3_state"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.4_cache_data",
+      "bytes": 7295,
+      "sha256": "5b410dcece589cbf25c37cd446def3dd82a16991deb0af00932555bc7983da73",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.4_cache_data",
+        "KAN_assisted tomography/model/0.5_cache_data"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.4_config.yml",
+      "bytes": 396,
+      "sha256": "0cd5a6747ef736e0cef4f82ce28dc27ba85d554ef3392aefca1e844ec0b86a7d",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.4_config.yml"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.4_state",
+      "bytes": 114297,
+      "sha256": "00fcfcf9dd9032fd64aa08b8c77b322470bb7ef2e79148d8ac6de856f03b73b7",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.4_state"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.5_cache_data",
+      "bytes": 7295,
+      "sha256": "5b410dcece589cbf25c37cd446def3dd82a16991deb0af00932555bc7983da73",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.4_cache_data",
+        "KAN_assisted tomography/model/0.5_cache_data"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.5_config.yml",
+      "bytes": 397,
+      "sha256": "7253344edcee53d64bb5c50144a98b9a4f5f9472ba118aa1d8004a4ceea06843",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.5_config.yml"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/0.5_state",
+      "bytes": 114425,
+      "sha256": "108619c6856f82379266349610170eb21ce8fa477507525de3bff3d684e144a3",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.5_state"
+      ]
+    },
+    {
+      "path": "KAN_assisted tomography/model/history.txt",
+      "bytes": 85,
+      "sha256": "24f8e6bb6ca241f9a456b9840d098733e4451b43711b6a116877b794d348e88c",
+      "repo_matches": [
+        "KAN_assisted tomography/model/history.txt"
+      ]
+    },
+    {
+      "path": "data/41566_2012_BFnphoton2012107_MOESM3_ESM.xls",
+      "bytes": 371712,
+      "sha256": "15ff9de3169e0252c4a2799707c250800c1e493f43a48973a56646e2a516e0c3",
+      "repo_matches": [
+        "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM3_ESM.xls"
+      ]
+    },
+    {
+      "path": "data/41566_2012_BFnphoton2012107_MOESM4_ESM.xls",
+      "bytes": 316928,
+      "sha256": "bb87dc03caac6904b05b9990cf32ff49806a6fc2464a7a7014935bf1a7b15e17",
+      "repo_matches": [
+        "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM4_ESM.xls"
+      ]
+    },
+    {
+      "path": "data/41566_2012_BFnphoton2012107_MOESM5_ESM.xls",
+      "bytes": 401408,
+      "sha256": "b60d391dd87ecd2c1b17e8737ab1600c03bdd070b90c9718b25fc09770be7794",
+      "repo_matches": [
+        "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM5_ESM.xls"
+      ]
+    },
+    {
+      "path": "data/41566_2012_BFnphoton2012107_MOESM6_ESM.xls",
+      "bytes": 4283904,
+      "sha256": "93d05d5f94ccc729814da95b14bcb4635eb1a79945d7340f0f504e4f1658fe5f",
+      "repo_matches": [
+        "KAN_assisted tomography/data/41566_2012_BFnphoton2012107_MOESM6_ESM.xls"
+      ]
+    },
+    {
+      "path": "model/0.0_cache_data",
+      "bytes": 1161,
+      "sha256": "1c7e7515c4c8e0e22636d9ef8e2d738b88b0c3576dbb0a5ed6d963fca6e7a451",
+      "repo_matches": [
+        "KAN vs BSpline_MLP/model/0.0_cache_data",
+        "KAN_assisted tomography/model/0.0_cache_data"
+      ]
+    },
+    {
+      "path": "model/0.0_config.yml",
+      "bytes": 395,
+      "sha256": "bc945c61d7e8bb7379f70657b259511ca4c522b24032b57253df05f1b6805823",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.0_config.yml"
+      ]
+    },
+    {
+      "path": "model/0.1_config.yml",
+      "bytes": 396,
+      "sha256": "4054461ad4966a6585a5e2f8c0db5423bfc7e443db589ba5ee764e99898a33f3",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.1_config.yml"
+      ]
+    },
+    {
+      "path": "model/0.2_config.yml",
+      "bytes": 395,
+      "sha256": "ca80a9a989e5ecba028545c12e4deac59e4168693d4baa9ddba209d8bcc7ed8d",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.2_config.yml"
+      ]
+    },
+    {
+      "path": "model/0.3_config.yml",
+      "bytes": 397,
+      "sha256": "dc54dfb4c031231b4080886456c4283899cde15dd245a6c5d1de4b83fa4d9097",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.3_config.yml"
+      ]
+    },
+    {
+      "path": "model/0.4_config.yml",
+      "bytes": 396,
+      "sha256": "0cd5a6747ef736e0cef4f82ce28dc27ba85d554ef3392aefca1e844ec0b86a7d",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.4_config.yml"
+      ]
+    },
+    {
+      "path": "model/0.5_config.yml",
+      "bytes": 397,
+      "sha256": "7253344edcee53d64bb5c50144a98b9a4f5f9472ba118aa1d8004a4ceea06843",
+      "repo_matches": [
+        "KAN_assisted tomography/model/0.5_config.yml"
+      ]
+    }
+  ],
+  "unique": [
+    {
+      "path": "Zhang_etal_2012a.pdf",
+      "bytes": 2101446,
+      "sha256": "a28116ae73587a6925e968b3d42d1a7a2ee75d74c73f3f90bf0aeecd20995533"
+    },
+    {
+      "path": "Zhang_etal_2012a_SM.pdf",
+      "bytes": 384086,
+      "sha256": "8248248ee044d07d266b13ad57a01656f748e2289fe3f7d208ffa3a98963b0f7"
+    },
+    {
+      "path": "model/0.0_state",
+      "bytes": 8185,
+      "sha256": "1148d97c25d4dd8525993bb24c0674e4d2a4ab0873bf093f48f48e9a0727c057"
+    },
+    {
+      "path": "model/0.1_cache_data",
+      "bytes": 13247,
+      "sha256": "6f19ad3451d2c003639d19da1522b377d546748a92ec521aa786c9fb5ccef8bc"
+    },
+    {
+      "path": "model/0.1_state",
+      "bytes": 168313,
+      "sha256": "67a8dd55d4ac1a441995afedd418a59ae38ff92ecfe4b8a699cc946413a3b3a9"
+    },
+    {
+      "path": "model/0.2_cache_data",
+      "bytes": 13247,
+      "sha256": "6f19ad3451d2c003639d19da1522b377d546748a92ec521aa786c9fb5ccef8bc"
+    },
+    {
+      "path": "model/0.2_state",
+      "bytes": 168313,
+      "sha256": "67a8dd55d4ac1a441995afedd418a59ae38ff92ecfe4b8a699cc946413a3b3a9"
+    },
+    {
+      "path": "model/0.3_cache_data",
+      "bytes": 13247,
+      "sha256": "11dd1aafd8bf9872d08ef058fad4e6d7e812f27cde62f40727d73b2912d3a6c5"
+    },
+    {
+      "path": "model/0.3_state",
+      "bytes": 168569,
+      "sha256": "3cd5d4e836c8ef92605a1bace7af91280bc718cb31f59d06bdbbd1168ab1c3f6"
+    },
+    {
+      "path": "model/0.4_cache_data",
+      "bytes": 13247,
+      "sha256": "a73109ca42e458a1d56ed5c6d03846e7ab343f20fdb21e7bc965122c0f7e3d0d"
+    },
+    {
+      "path": "model/0.4_state",
+      "bytes": 168569,
+      "sha256": "3cd5d4e836c8ef92605a1bace7af91280bc718cb31f59d06bdbbd1168ab1c3f6"
+    },
+    {
+      "path": "model/0.5_cache_data",
+      "bytes": 13247,
+      "sha256": "11dd1aafd8bf9872d08ef058fad4e6d7e812f27cde62f40727d73b2912d3a6c5"
+    },
+    {
+      "path": "model/0.5_state",
+      "bytes": 168953,
+      "sha256": "6a991fce2e78240f6f090e9bdbc1e4249d9364976eaf7b9b7bbd38f7b73736f9"
+    },
+    {
+      "path": "model/history.txt",
+      "bytes": 124,
+      "sha256": "fd85b428339d5075d8b0c4080ab4e6ee688179c9cf05fbc19ff56b6e1e7d465f"
+    },
+    {
+      "path": "try_construct_SDP.ipynb",
+      "bytes": 170631,
+      "sha256": "76845bb9e23effe8620b36712af4200721fa8e891eaec3a345c12c0159fd8418"
+    }
+  ]
+}

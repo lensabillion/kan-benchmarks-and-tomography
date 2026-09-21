@@ -1,0 +1,15 @@
+{
+  "exact_duplicates": [],
+  "unique": [
+    {
+      "path": "notebooks/de_broglie.ipynb",
+      "bytes": 2130,
+      "sha256": "b3dc19005696c53cf4b09018e14198611c59775134e6df167d0f4fa83b9a4cfc"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 56,
+      "sha256": "ee150d5b6d9e8adb5a7d7f4c938451820dea1403d132e2fd34bfacddb14f5e29"
+    }
+  ]
+}

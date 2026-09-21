@@ -16,9 +16,12 @@ so and the older one stays in place as the record of what was believed at the ti
 | 01 | [KAN vs B-spline MLP](01-kan-vs-bspline-mlp.md) | Is KAN's advantage the spline activation or the architecture? | 2026-09-09 |
 | 02 | [KAN vs MLP](02-kan-vs-mlp.md) | From-scratch KAN and MLP on classification and regression tasks | 2026-09-09 |
 | 03 | [KAN-assisted tomography](03-kan-assisted-tomography.md) | KAN as a denoising front-end to SDP quantum detector tomography | 2026-09-09 |
+| 04 | [Project restart audit](04-project-restart-audit.md) | First-principles code and writing audit, primary research, and dependency-ordered restart plan | 2026-09-21 |
 
 ## Sources
 
-Every number in these reports is read from committed notebook cell outputs in this
-repository. Nothing was re-run. Where two notebooks disagree on the same quantity, the
-report says so rather than picking one.
+Reports 01–03 transcribe committed notebook outputs; their experiments were not re-run.
+Report 04 additionally includes source and mathematical checks, bounded numerical probes,
+the supplied writing, local asset comparisons, and primary literature. Its verification
+record distinguishes reproduced checks from historical numbers. It supersedes earlier
+interpretations where it identifies defects; the historical reports remain in place.

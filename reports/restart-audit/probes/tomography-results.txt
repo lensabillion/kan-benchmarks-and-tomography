@@ -1,0 +1,83 @@
+numpy=2.4.6, scipy=1.17.1, xlrd=2.0.2
+
+41566_2012_BFnphoton2012107_MOESM3_ESM.xls: rows=4400, columns=4
+headers: ['Probe photon number', 'Probe phase (radians)', 'Number of 0-click event', 'Number of 1-click event']
+brightness range: 0.044031320141297105 56.18856501521817
+phase range: 0.0030347917156259285 6.282972046533317
+integer nonnegative counts: True
+total count range: 127479.0 128323.0
+brightness levels: 110
+probability range: 0.005532913039751253 0.9972188586383345
+plug-in binomial RMS floor: 0.0010051399606731196
+tail at D=58: 0.4221197003770346
+smallest D for Poisson tail <=1e-8: 104
+wrapped phase gap range: 0.0007853621636533248 0.178297426841743
+
+41566_2012_BFnphoton2012107_MOESM4_ESM.xls: rows=3720, columns=4
+headers: ['Probe photon number', 'Probe phase (radians)', 'Number of 0-click event', 'Number of 1-click event']
+brightness range: 0.17849843494901527 38.524338440558
+phase range: 0.007981472997252936 6.2817047909218475
+integer nonnegative counts: True
+total count range: 127802.0 128323.0
+brightness levels: 93
+probability range: 0.0009039688910016131 0.9967715710645216
+plug-in binomial RMS floor: 0.0010210348267725407
+tail at D=58: 0.002038774756583651
+smallest D for Poisson tail <=1e-8: 79
+wrapped phase gap range: 0.00281413462469704 0.17593429170420904
+band=1, mean max imag=0.06023925, periodic trapezoid max imag=0.00375360, DC leakage max=0.10478195
+band=2, mean max imag=0.05650969, periodic trapezoid max imag=0.00382729, DC leakage max=0.09779800
+band=3, mean max imag=0.05419478, periodic trapezoid max imag=0.00223187, DC leakage max=0.08673195
+band=4, mean max imag=0.05372237, periodic trapezoid max imag=0.00170187, DC leakage max=0.07239555
+band=0, shape=(93, 58), condition=8.080549e+19, default numeric rank=34
+band=1, shape=(93, 57), condition=3.874968e+19, default numeric rank=33
+band=2, shape=(93, 56), condition=2.983164e+19, default numeric rank=33
+band=3, shape=(93, 55), condition=2.011725e+19, default numeric rank=33
+band=4, shape=(93, 54), condition=1.480328e+19, default numeric rank=32
+
+41566_2012_BFnphoton2012107_MOESM5_ESM.xls: rows=4760, columns=4
+headers: ['Probe photon number', 'Probe phase (radians)', 'Number of 0-click event', 'Number of 1-click event']
+brightness range: 0.05662532121898391 166.8649884334734
+phase range: -1.856973814521016 6.282011935685974
+integer nonnegative counts: True
+total count range: 127586.0 129188.0
+brightness levels: 119
+probability range: 0.4301429887513451 0.9964702961848169
+plug-in binomial RMS floor: 0.0009935774293504224
+tail at D=58: 1.0
+smallest D for Poisson tail <=1e-8: 245
+wrapped phase gap range: 0.00025087252552147277 0.17218318731758053
+
+41566_2012_BFnphoton2012107_MOESM6_ESM.xls: rows=34600, columns=11
+headers: ['Probe photon number', 'Probe phase (radians)', 'Number of 0-click event', 'Number of 1-click event', 'Number of 2-click event', 'Number of 3-click event', 'Number of 4-click event', 'Number of 5-click event', 'Number of 6-click event', 'Number of 7-click event', 'Number of 8-click event']
+brightness range: 0.1080407838590308 610.7287846611398
+phase range: -3.141369697992686 9.41757296493975
+integer nonnegative counts: True
+total count range: 128362.0 128365.0
+
+Shifted uniform grid constant->band1 leakage: 1.821377042022605e-17
+Normalized fidelity counterexample F(.2 I,.8 I): 1.0 probability gap=0.6
+Full PSD matrix eigenvalues: [0.3 0.5 0.5 0.5 0.5 0.7]
+Full-minus-L4 Born prediction: 0.02795473590024866
+
+Saved stress sweep split reproduction (same RNG call order):
+seed=0, fraction=1.00, train=93, heldout=0, outside-training-range=0
+seed=0, fraction=0.60, train=55, heldout=38, outside-training-range=1
+seed=0, fraction=0.40, train=37, heldout=56, outside-training-range=0
+seed=0, fraction=0.25, train=23, heldout=70, outside-training-range=3
+seed=1, fraction=1.00, train=93, heldout=0, outside-training-range=0
+seed=1, fraction=0.60, train=55, heldout=38, outside-training-range=0
+seed=1, fraction=0.40, train=37, heldout=56, outside-training-range=1
+seed=1, fraction=0.25, train=23, heldout=70, outside-training-range=2
+seed=2, fraction=1.00, train=93, heldout=0, outside-training-range=0
+seed=2, fraction=0.60, train=55, heldout=38, outside-training-range=0
+seed=2, fraction=0.40, train=37, heldout=56, outside-training-range=13
+seed=2, fraction=0.25, train=23, heldout=70, outside-training-range=1
+seed=3, fraction=1.00, train=93, heldout=0, outside-training-range=0
+seed=3, fraction=0.60, train=55, heldout=38, outside-training-range=2
+seed=3, fraction=0.40, train=37, heldout=56, outside-training-range=3
+seed=3, fraction=0.25, train=23, heldout=70, outside-training-range=1
+seed=4, fraction=1.00, train=93, heldout=0, outside-training-range=0
+seed=4, fraction=0.60, train=55, heldout=38, outside-training-range=0
+seed=4, fraction=0.40, train=37, heldout=56, outside-training-range=1
+seed=4, fraction=0.25, train=23, heldout=70, outside-training-range=2
